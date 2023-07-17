@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kmahirminhja@gmail.com**
 
-- ⚡ Fun fact **See u in vscode👌**
+- **See u in vscode😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

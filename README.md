@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahir Minhaj K</h1>
-# 💫 About Me:
+
 Hey there! I'm Km, a passionate MERN stack developer from 🇮🇳, currently diving deeper into the world of backend development and microservices.<br>🎓 Education: Just wrapped up my BCA and now pursuing MCA.<br>🚀 Entrepreneur:  Founder & developer of an exciting e-commerce adventure. 🚀 More on the way.<br>🌱 Currently Learning: Mastering microservice architecture and expanding my DevOps knowledge to automate and optimize my workflows.<br>🧑‍💻 Currently Working On: Building robust and efficient backend systems for modern applications.<br><br> 
 
 
